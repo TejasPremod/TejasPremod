@@ -31,3 +31,35 @@
 </div>
 
 ###
+<h1 align="center">Hi 👋, I'm Tejas Premod</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tejaspremod&label=Profile%20views&color=0e75b6&style=flat" alt="tejaspremod" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tejaspremod" alt="tejaspremod" /></a> </p>
+
+- 🔭 I’m currently working on [PgBee](https://github.com/PgBee)
+
+- 🌱 I’m currently learning **react , OpenUSD, js , blender , ps**
+
+- 🤝 I’m looking for help with **react**
+
+- 👨‍💻 All of my projects are available at [https://tejaspremod.github.io/](https://tejaspremod.github.io/)
+
+- 💬 Ask me about **python**
+
+- 📫 How to reach me **tejaspramod2005@gmail.com**
+
+- ⚡ Fun fact **im funny af . (at most times)**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/tejas-pramod-7856342b1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tejas-pramod-7856342b1" height="30" width="40" /></a>
+<a href="https://instagram.com/tej_26_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tej_26_" height="30" width="40" /></a>
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tejaspremod&show_icons=true&locale=en&layout=compact" alt="tejaspremod" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tejaspremod&show_icons=true&locale=en" alt="tejaspremod" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tejaspremod&" alt="tejaspremod" /></p>
