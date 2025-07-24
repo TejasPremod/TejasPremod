@@ -50,6 +50,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tejaspremod&show_icons=true&locale=en&layout=compact" alt="tejaspremod" /></p>
 
+<div align="center">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tejaspremod&show_icons=true&locale=en" alt="tejaspremod" /></p>
+</div>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tejaspremod&" alt="tejaspremod" /></p>
