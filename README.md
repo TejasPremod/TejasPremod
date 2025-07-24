@@ -31,12 +31,7 @@
 </div>
 
 ###
-<h1 align="center">Hi 👋, I'm Tejas Premod</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tejaspremod&label=Profile%20views&color=0e75b6&style=flat" alt="tejaspremod" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tejaspremod" alt="tejaspremod" /></a> </p>
+<h3 align="center">About meeee </h3>
 
 - 🔭 I’m currently working on [PgBee](https://github.com/PgBee)
 
