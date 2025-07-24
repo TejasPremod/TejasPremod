@@ -20,7 +20,6 @@
 ###
 
 <div align="center">
-  <h3 align="left">Connect with me:</h3>
   <a href="https://linkedin.com/in/tejas-pramod-7856342b1" target="blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=C13584&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
 </div>
@@ -33,7 +32,7 @@
 </div>
 
 ###
-<h3 align="center">About meeee </h3>
+<h3 align="center">about meeee </h3>
 
 - 🔭 I’m currently working on [PgBee](https://github.com/PgBee)
 
